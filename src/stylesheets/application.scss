@@ -1,0 +1,11 @@
+body {
+  background: url('/images/pic.jpg') repeat;
+}
+.header {
+  &-container {
+    padding: 0 15px;
+    &-title {
+      font-size: 1.2em;
+    }
+  }
+}
